@@ -642,9 +642,9 @@ const rawCountries = [
     '+... .. .......'
   ],
   [
-    'Israel',
+    'Palestinian territories',
     ['middle-east'],
-    'il',
+    'pst',
     '972',
     '+... ... ... ....'
   ],
